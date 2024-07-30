@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+so apparently you need this public readme for GitHub Education benefits c:
 <!--
 **PilotHaribo/pilotharibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
